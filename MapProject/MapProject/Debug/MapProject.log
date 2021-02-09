@@ -1,0 +1,64 @@
+﻿  main.cpp
+C:\Users\Serban\Desktop\MapProjectGitHub\MapProject\MapProject\Maps.cpp(14,63): warning C4244: '=': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Serban\Desktop\MapProjectGitHub\MapProject\MapProject\Maps.cpp(20,65): warning C4244: '=': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Serban\Desktop\MapProjectGitHub\MapProject\MapProject\Maps.cpp(31,63): warning C4244: '=': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Serban\Desktop\MapProjectGitHub\MapProject\MapProject\Maps.cpp(40,65): warning C4244: '=': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Serban\Desktop\MapProjectGitHub\MapProject\MapProject\Maps.cpp(49,63): warning C4244: '=': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Serban\Desktop\MapProjectGitHub\MapProject\MapProject\Maps.cpp(56,65): warning C4244: '=': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  Maps.cpp
+C:\Users\Serban\Desktop\MapProjectGitHub\MapProject\MapProject\Maps.cpp(14,63): warning C4244: '=': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Serban\Desktop\MapProjectGitHub\MapProject\MapProject\Maps.cpp(20,65): warning C4244: '=': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Serban\Desktop\MapProjectGitHub\MapProject\MapProject\Maps.cpp(31,63): warning C4244: '=': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Serban\Desktop\MapProjectGitHub\MapProject\MapProject\Maps.cpp(40,65): warning C4244: '=': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Serban\Desktop\MapProjectGitHub\MapProject\MapProject\Maps.cpp(49,63): warning C4244: '=': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Serban\Desktop\MapProjectGitHub\MapProject\MapProject\Maps.cpp(56,65): warning C4244: '=': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  Generating Code...
+  MapProject.vcxproj -> C:\Users\Serban\Desktop\MapProjectGitHub\MapProject\Debug\MapProject.exe
